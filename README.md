@@ -1,7 +1,7 @@
 # True or False Game
 
 First project using OOP. True or False game with general knowledge questions.
-*Questions from the Open Trivia Database API https://opentdb.com/*
+*Questions from the Open Trivia Database https://opentdb.com/*
 
 Concepts used:
 <ul>  
