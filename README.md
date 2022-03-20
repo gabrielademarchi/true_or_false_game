@@ -1,6 +1,7 @@
 # True or False Game
 
 First project using OOP. True or False game with general knowledge questions.
+
 *Questions from the Open Trivia Database https://opentdb.com/*
 
 Concepts used:
@@ -14,4 +15,4 @@ Concepts used:
 	</ol>
 </ul>
 
--Day 16 of the #100daysofcode challenge
+-Day 17 of the #100daysofcode challenge
